@@ -1,4 +1,4 @@
-# login_back
+# login_back (role based auth)
 run the following queries to populate your role table
 
 INSERT INTO role(name) VALUES('ROLE_USER'); </br>
