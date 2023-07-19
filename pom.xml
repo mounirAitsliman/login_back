@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.enova</groupId>
-	<artifactId>login_back</artifactId>
+	<artifactId>login_back_jwtAuth</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>login_back</name>
 	<description>login_back project for Spring Boot</description>
